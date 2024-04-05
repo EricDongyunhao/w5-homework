@@ -1,4 +1,4 @@
-!pip install replicate
+
 from flask import Flask, request, render_template
 import datetime
 import sqlite3
